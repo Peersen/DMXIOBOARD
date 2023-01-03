@@ -30,7 +30,7 @@ This was done because having those pins connected to the driver chips prohibits 
 The XLR female connector and the corresponding screwterminal can be either DMX output from the arduino or passing through the dmx input.
 To decide what is does two more jumperpads most be soldered. They are labeled (solder fort XLR f = DMX Through/DMXOUT".
 
-
- 
+#### Design files
+The Project was done using Kicad 6.0. You`ll find a Gerber folder in the Projekt folder that should be accepted by JLCPCB.com and other manufacturers.
 
 
